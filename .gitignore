@@ -14,4 +14,22 @@ target/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
-#.idea/
+.idea/
+
+# Lockfile should not be committed in example or learning projects
+Cargo.lock
+
+# Editor swap/backup files
+*.swp
+*~
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Linux system files
+.directory
+.Trash-*
+.fuse_hidden*
