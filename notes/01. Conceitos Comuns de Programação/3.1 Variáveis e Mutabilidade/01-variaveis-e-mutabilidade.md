@@ -1,5 +1,6 @@
 # Variáveis e Mutabilidade
 Data: 27/04/2025
+Alterado por último em: 27/04/2025
 
 ## Resumo
 Para declarar variáveis em rust usamos as palavras-chave `let` ou `const`. Por padrão, as variáveis em Rust são imutáveis. Isso significa que, por padrão, não é possível alterar o valor, nem o tipo depois que foram criadas. 
