@@ -1,9 +1,9 @@
 # Sombreamento
-Data: 27/04/2025
+Data: 27/04/2025 <br>
 Alterado por último em: 27/04/2025
 
 ## Resumo
-Em rust é possível declarar uma variável com o mesmo nome que outra variável já existente.
+Em Rust é possível declarar uma variável com o mesmo nome que outra variável já existente.
 Por exemplo, é valido fazer:
 ``` rust
 fn main() {
