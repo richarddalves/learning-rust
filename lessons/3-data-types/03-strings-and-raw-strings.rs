@@ -7,7 +7,7 @@ fn main() {
     let file_path = r"/home/richard/Desktop/my_project/src/main.rs";
 
 
-    /* dinamic strings */
+    /* dynamic strings */
     let mut user_entry = String::new();
 
     println!("Type something:");
