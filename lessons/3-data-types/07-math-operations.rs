@@ -13,7 +13,7 @@ fn main() {
     let remainder = 12 % 7;
     println!("{remainder}");
 
-    // Augmented Assignement Operator
+    // Augmented Assignment Operator
     let mut year = 2025;
 
     year += 1;
